@@ -90,3 +90,4 @@ class DatabaseManager:
 
 # Global database manager instance
 db_manager = DatabaseManager('e_waste.db', max_connections=10)
+
