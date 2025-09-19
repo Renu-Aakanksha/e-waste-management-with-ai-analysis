@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pillow
+google-generativeai
+requests
+python-dotenv
