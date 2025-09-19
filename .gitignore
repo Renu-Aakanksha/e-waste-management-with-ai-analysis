@@ -11,6 +11,10 @@ venv/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Python packages (exclude large site-packages)
+backend/Lib/
+backend/Scripts/
+
 # Database
 *.db
 *.db-shm
